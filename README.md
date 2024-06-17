@@ -2,7 +2,7 @@ Hello everyone👋,
 
 My name is Abhrajit Ghosh. 
 
-I am a
+I am a:
 
 👨‍💻 Python Developer | AI, ML, Data Science Enthusiast 
 
