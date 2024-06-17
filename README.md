@@ -1,4 +1,8 @@
-Hello everyone, my name is Abhrajit Ghosh. I am a
+Hello everyone👋, 
+
+My name is Abhrajit Ghosh. 
+
+I am a
 
 👨‍💻 Python Developer | AI, ML, Data Science Enthusiast 
 
