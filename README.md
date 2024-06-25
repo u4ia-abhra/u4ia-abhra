@@ -4,7 +4,7 @@ My name is Abhrajit Ghosh.
 
 I am a:
 
-👨‍💻 Python Developer | AI, ML, Data Science Enthusiast 
+👨‍💻 Python Developer | AI, ML Enthusiast | Aspiring Data Scienctist
 
 🎓 Pursuing Computer Science Engineering at KIIT, Bhubaneswar, with a focus on Artificial Intelligence, Machine Learning, and Data Science.
 
